@@ -2,8 +2,6 @@
 
 A Power BI dashboard built to analyze raw sales data from a multinational pharmaceutical manufacturing company and generate insights into the performance of sales teams, customers, and distributors.
 
-👉 Open In Power BI: (Add link here)
-
 ---
 
 # 📊 Pharmaceutical Sales Analysis
