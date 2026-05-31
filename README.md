@@ -23,23 +23,6 @@ In this Data Analysis project, we analyze a global pharmaceutical manufacturing 
 
 ---
 
-# 📑 Table of Contents
-
-- Introduction  
-- Objective  
-- Dataset  
-- Solution Approach  
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning & Transformation  
-- Data Model Creation  
-- Report Creation  
-- How to Use  
-- License  
-- Credits  
-- Contact  
-
----
-
 # 🏢 Introduction
 
 Datamatrix-ml Pharmaceuticals is a leading global pharmaceutical manufacturing company with operations across multiple regions.
@@ -149,7 +132,7 @@ This improves:
 - High-level KPIs  
 - Sales trends by time period  
 - Breakdown by channel, city, product class
-- 
+  
 <img width="1437" height="806" alt="image" src="https://github.com/user-attachments/assets/fb223c27-72f7-44d0-8634-197cb6e4c4f3" />
 
 ---
