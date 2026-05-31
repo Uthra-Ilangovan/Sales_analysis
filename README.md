@@ -10,6 +10,8 @@ A Power BI dashboard built to analyze raw sales data from a multinational pharma
 
 In this Data Analysis project, we analyze a global pharmaceutical manufacturing company’s raw sales data and draw meaningful insights using Power BI.
 
+<img width="1024" height="556" alt="image" src="https://github.com/user-attachments/assets/a1f83c44-1431-45e4-8b30-309d55cf10db" />
+
 ---
 
 # ⚡ Features
@@ -137,6 +139,8 @@ This improves:
 - Query efficiency  
 - Scalability  
 
+<img width="1360" height="763" alt="image" src="https://github.com/user-attachments/assets/6d81727f-93ef-42d6-92aa-b3ad3c4740f0" />
+
 ---
 
 # 📊 Report Creation
@@ -144,14 +148,18 @@ This improves:
 ## 1. Executive Summary Report (DM-DA01-SOL-1)
 - High-level KPIs  
 - Sales trends by time period  
-- Breakdown by channel, city, product class  
+- Breakdown by channel, city, product class
+- 
+<img width="1437" height="806" alt="image" src="https://github.com/user-attachments/assets/fb223c27-72f7-44d0-8634-197cb6e4c4f3" />
 
 ---
 
 ## 2. Distributor & Customer Analysis (DM-DA01-SOL-2)
 - Distributor performance  
 - Customer-level insights  
-- Product-level drill-down  
+- Product-level drill-down
+  
+<img width="1439" height="803" alt="image" src="https://github.com/user-attachments/assets/09e946bf-77d0-415b-b95b-ad5a034bec88" />
 
 ---
 
@@ -159,42 +167,8 @@ This improves:
 - Sales rep performance  
 - Manager contribution analysis  
 - Product class contribution  
-- Time-based filters (year/month)  
+- Time-based filters (year/month)
+  
+<img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/c49de6a7-7528-48ec-bcd8-e84b06f56469" />
 
 ---
-
-# 🚀 How To Use
-
-## Option 1: Power BI Service (Recommended)
-Open the dashboard directly in Power BI Service for interactive exploration.
-
-👉 Open In Power BI: (Insert link here)
-
----
-
-## Option 2: Power BI Desktop
-
-1. Download `pharma-analysis.pbix` from the repository  
-2. Open using Power BI Desktop  
-3. Explore or modify the model and visuals  
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-# 🙌 Credits
-
-- Dataset Source: Foresight BI  
-- Tool: Microsoft Power BI  
-
----
-
-# 📬 Get in Touch
-
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin-url  
-- Portfolio: your-portfolio-url  
